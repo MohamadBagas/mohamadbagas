@@ -1,0 +1,442 @@
+[
+  {
+    "NAMA_DESA": "JANGKARAN",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1832
+  },
+  {
+    "NAMA_DESA": "SINDUTAN",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 2020
+  },
+  {
+    "NAMA_DESA": "PALIHAN",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 2294
+  },
+  {
+    "NAMA_DESA": "GLAGAH",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 2969
+  },
+  {
+    "NAMA_DESA": "KALIDENGEN",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1364
+  },
+  {
+    "NAMA_DESA": "PLUMBON",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 2273
+  },
+  {
+    "NAMA_DESA": "KEDUNDANG",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 2132
+  },
+  {
+    "NAMA_DESA": "DEMEN",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1306
+  },
+  {
+    "NAMA_DESA": "KULUR",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 2602
+  },
+  {
+    "NAMA_DESA": "KALIGINTUNG",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1613
+  },
+  {
+    "NAMA_DESA": "TEMON WETAN",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1408
+  },
+  {
+    "NAMA_DESA": "TEMON KULON",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1610
+  },
+  {
+    "NAMA_DESA": "KEBON REJO",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1294
+  },
+  {
+    "NAMA_DESA": "JANTEN",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1121
+  },
+  {
+    "NAMA_DESA": "KARANGWULUH",
+    "NAMA_KEC": "Temon",
+    "PENDUDUK": 1083
+  },
+  {
+    "NAMA_DESA": "KARANGWUNI",
+    "NAMA_KEC": "Wates",
+    "PENDUDUK": 3351
+  },
+  {
+    "NAMA_DESA": "SOGAN",
+    "NAMA_KEC": "Wates",
+    "PENDUDUK": 1981
+  },
+  {
+    "NAMA_DESA": "KULWARU",
+    "NAMA_KEC": "Wates",
+    "PENDUDUK": 2783
+  },
+  {
+    "NAMA_DESA": "NGESTIHARJO",
+    "NAMA_KEC": "Wates",
+    "PENDUDUK": 3065
+  },
+  {
+    "NAMA_DESA": "TRIHARJO",
+    "NAMA_KEC": "Wates",
+    "PENDUDUK": 7138
+  },
+  {
+    "NAMA_DESA": "BENDUNGAN",
+    "NAMA_KEC": "Wates",
+    "PENDUDUK": 6728
+  },
+  {
+    "NAMA_DESA": "GIRIPENI",
+    "NAMA_KEC": "Wates",
+    "PENDUDUK": 8640
+  },
+  {
+    "NAMA_DESA": "WATES",
+    "NAMA_KEC": "Wates",
+    "PENDUDUK": 14706
+  },
+  {
+    "NAMA_DESA": "GARONGAN",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 3462
+  },
+  {
+    "NAMA_DESA": "PLERET",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 4649
+  },
+  {
+    "NAMA_DESA": "BUGEL",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 4442
+  },
+  {
+    "NAMA_DESA": "KANOMAN",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 1918
+  },
+  {
+    "NAMA_DESA": "DEPOK",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 2952
+  },
+  {
+    "NAMA_DESA": "BOJONG",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 4086
+  },
+  {
+    "NAMA_DESA": "TAYUBAN",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 2113
+  },
+  {
+    "NAMA_DESA": "GOTAKAN",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 2847
+  },
+  {
+    "NAMA_DESA": "PANJATAN",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 1467
+  },
+  {
+    "NAMA_DESA": "CERME",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 3454
+  },
+  {
+    "NAMA_DESA": "KREMBANGAN",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 5030
+  },
+  {
+    "NAMA_DESA": "KARANGSEWU",
+    "NAMA_KEC": "Panjatan",
+    "PENDUDUK": 8041
+  },
+  {
+    "NAMA_DESA": "BANARAN",
+    "NAMA_KEC": "Galur",
+    "PENDUDUK": 5368
+  },
+  {
+    "NAMA_DESA": "KRANGGAN",
+    "NAMA_KEC": "Galur",
+    "PENDUDUK": 2418
+  },
+  {
+    "NAMA_DESA": "NOMPOREJO",
+    "NAMA_KEC": "Galur",
+    "PENDUDUK": 2022
+  },
+  {
+    "NAMA_DESA": "BROSOT",
+    "NAMA_KEC": "Galur",
+    "PENDUDUK": 4589
+  },
+  {
+    "NAMA_DESA": "PANDOWAN",
+    "NAMA_KEC": "Galur",
+    "PENDUDUK": 2100
+  },
+  {
+    "NAMA_DESA": "TIRTORAHAYU",
+    "NAMA_KEC": "Galur",
+    "PENDUDUK": 6725
+  },
+  {
+    "NAMA_DESA": "WAHYUHARJO",
+    "NAMA_KEC": "Lendah",
+    "PENDUDUK": 1848
+  },
+  {
+    "NAMA_DESA": "BUMIREJO",
+    "NAMA_KEC": "Lendah",
+    "PENDUDUK": 8686
+  },
+  {
+    "NAMA_DESA": "JATIREJO",
+    "NAMA_KEC": "Lendah",
+    "PENDUDUK": 6778
+  },
+  {
+    "NAMA_DESA": "SIDOREJO",
+    "NAMA_KEC": "Lendah",
+    "PENDUDUK": 7740
+  },
+  {
+    "NAMA_DESA": "GULUREJO",
+    "NAMA_KEC": "Lendah",
+    "PENDUDUK": 7244
+  },
+  {
+    "NAMA_DESA": "NGENTAKREJO",
+    "NAMA_KEC": "Lendah",
+    "PENDUDUK": 7342
+  },
+  {
+    "NAMA_DESA": "DEMANGREJO",
+    "NAMA_KEC": "Sentolo",
+    "PENDUDUK": 3252
+  },
+  {
+    "NAMA_DESA": "SRIKAYANGAN",
+    "NAMA_KEC": "Sentolo",
+    "PENDUDUK": 5094
+  },
+  {
+    "NAMA_DESA": "TUKSONO",
+    "NAMA_KEC": "Sentolo",
+    "PENDUDUK": 8663
+  },
+  {
+    "NAMA_DESA": "SALAMREJO",
+    "NAMA_KEC": "Sentolo",
+    "PENDUDUK": 5402
+  },
+  {
+    "NAMA_DESA": "SUKORENO",
+    "NAMA_KEC": "Sentolo",
+    "PENDUDUK": 8005
+  },
+  {
+    "NAMA_DESA": "KALI AGUNG",
+    "NAMA_KEC": "Sentolo",
+    "PENDUDUK": 6222
+  },
+  {
+    "NAMA_DESA": "SENTOLO",
+    "NAMA_KEC": "Sentolo",
+    "PENDUDUK": 8492
+  },
+  {
+    "NAMA_DESA": "BANGUNCIPTO",
+    "NAMA_KEC": "Sentolo",
+    "PENDUDUK": 3698
+  },
+  {
+    "NAMA_DESA": "TAWANGSARI",
+    "NAMA_KEC": "Pengasih",
+    "PENDUDUK": 4640
+  },
+  {
+    "NAMA_DESA": "KARANGSARI",
+    "NAMA_KEC": "Pengasih",
+    "PENDUDUK": 10035
+  },
+  {
+    "NAMA_DESA": "KEDUNGSARI",
+    "NAMA_KEC": "Pengasih",
+    "PENDUDUK": 4376
+  },
+  {
+    "NAMA_DESA": "MARGOSARI",
+    "NAMA_KEC": "Pengasih",
+    "PENDUDUK": 5978
+  },
+  {
+    "NAMA_DESA": "PENGASIH",
+    "NAMA_KEC": "Pengasih",
+    "PENDUDUK": 10269
+  },
+  {
+    "NAMA_DESA": "SENDANGSARI",
+    "NAMA_KEC": "Pengasih",
+    "PENDUDUK": 9423
+  },
+  {
+    "NAMA_DESA": "SIDOMULYO",
+    "NAMA_KEC": "Pengasih",
+    "PENDUDUK": 4979
+  },
+  {
+    "NAMA_DESA": "HARGOMULYO",
+    "NAMA_KEC": "Kokap",
+    "PENDUDUK": 7080
+  },
+  {
+    "NAMA_DESA": "HARGOREJO",
+    "NAMA_KEC": "Kokap",
+    "PENDUDUK": 8509
+  },
+  {
+    "NAMA_DESA": "HARGOWILIS",
+    "NAMA_KEC": "Kokap",
+    "PENDUDUK": 5788
+  },
+  {
+    "NAMA_DESA": "KALIREJO",
+    "NAMA_KEC": "Kokap",
+    "PENDUDUK": 4170
+  },
+  {
+    "NAMA_DESA": "HARGOTIRTO",
+    "NAMA_KEC": "Kokap",
+    "PENDUDUK": 6542
+  },
+  {
+    "NAMA_DESA": "JATIMULYO",
+    "NAMA_KEC": "Girimulyo",
+    "PENDUDUK": 6695
+  },
+  {
+    "NAMA_DESA": "GIRIPURWO",
+    "NAMA_KEC": "Girimulyo",
+    "PENDUDUK": 6389
+  },
+  {
+    "NAMA_DESA": "PENDOWOREJO",
+    "NAMA_KEC": "Girimulyo",
+    "PENDUDUK": 5129
+  },
+  {
+    "NAMA_DESA": "PURWOSARI",
+    "NAMA_KEC": "Girimulyo",
+    "PENDUDUK": 4478
+  },
+  {
+    "NAMA_DESA": "BANYUROTO",
+    "NAMA_KEC": "Nanggulan",
+    "PENDUDUK": 3643
+  },
+  {
+    "NAMA_DESA": "DONOMULYO",
+    "NAMA_KEC": "Nanggulan",
+    "PENDUDUK": 6175
+  },
+  {
+    "NAMA_DESA": "WIJIMULYO",
+    "NAMA_KEC": "Nanggulan",
+    "PENDUDUK": 5146
+  },
+  {
+    "NAMA_DESA": "TANJUNGHARJO",
+    "NAMA_KEC": "Nanggulan",
+    "PENDUDUK": 4351
+  },
+  {
+    "NAMA_DESA": "JATISARONO",
+    "NAMA_KEC": "Nanggulan",
+    "PENDUDUK": 5535
+  },
+  {
+    "NAMA_DESA": "KEMBANG",
+    "NAMA_KEC": "Nanggulan",
+    "PENDUDUK": 4798
+  },
+  {
+    "NAMA_DESA": "BANJARARUM",
+    "NAMA_KEC": "Kalibawang",
+    "PENDUDUK": 8801
+  },
+  {
+    "NAMA_DESA": "BANJARASRI",
+    "NAMA_KEC": "Kalibawang",
+    "PENDUDUK": 4333
+  },
+  {
+    "NAMA_DESA": "BANJARHARJO",
+    "NAMA_KEC": "Kalibawang",
+    "PENDUDUK": 7035
+  },
+  {
+    "NAMA_DESA": "BANJAROYO",
+    "NAMA_KEC": "Kalibawang",
+    "PENDUDUK": 7673
+  },
+  {
+    "NAMA_DESA": "KEBONHARJO",
+    "NAMA_KEC": "Samigaluh",
+    "PENDUDUK": 2236
+  },
+  {
+    "NAMA_DESA": "BANJARSARI",
+    "NAMA_KEC": "Samigaluh",
+    "PENDUDUK": 2951
+  },
+  {
+    "NAMA_DESA": "PURWOHARJO",
+    "NAMA_KEC": "Samigaluh",
+    "PENDUDUK": 3371
+  },
+  {
+    "NAMA_DESA": "SIDOHARJO",
+    "NAMA_KEC": "Samigaluh",
+    "PENDUDUK": 4881
+  },
+  {
+    "NAMA_DESA": "GERBOSARI",
+    "NAMA_KEC": "Samigaluh",
+    "PENDUDUK": 4356
+  },
+  {
+    "NAMA_DESA": "NGARGOSARI",
+    "NAMA_KEC": "Samigaluh",
+    "PENDUDUK": 3799
+  },
+  {
+    "NAMA_DESA": "PAGERHARJO",
+    "NAMA_KEC": "Samigaluh",
+    "PENDUDUK": 4676
+  }
+]
